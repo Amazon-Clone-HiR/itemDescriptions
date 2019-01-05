@@ -1,0 +1,32 @@
+.App {
+  border: 3px solid black;
+  border-radius: 5px;
+}
+.Color {
+  border: 3px solid gray;
+  border-radius: 5px;
+}
+.Desc {
+  border: 3px solid green;
+  border-radius: 5px;
+}
+.Price {
+  border: 3px solid orange;
+  border-radius: 5px;
+}
+.Rating {
+  border: 3px solid blue;
+  border-radius: 5px;
+}
+.Seller {
+  border: 3px solid red;
+  border-radius: 5px;
+}
+.Title {
+  border: 3px solid yellow;
+  border-radius: 5px;
+}
+.Shipping {
+  border: 3px solid purple;
+  border-radius: 5px;
+}
